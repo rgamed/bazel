@@ -26,7 +26,7 @@ Incompatible changes:
     ERROR: Build did NOT complete successfully
     ```
   - Bazel no longer increases the delay between progress updates when
-    there is no cursor control.
+    there is no cursor control.......
   - This has the side effect of changing the message on unsuccessful
     builds from
     ```
